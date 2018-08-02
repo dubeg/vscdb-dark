@@ -1,0 +1,22 @@
+{
+    "name": "vscdb-dark",
+    "displayName": "VSCDB Dark",
+    "description": "Personal dark theme",
+    "version": "0.0.1",
+    "publisher": "dubeg",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VSCDB Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-theme.json"
+            }
+        ]
+    }
+}
