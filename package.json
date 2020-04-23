@@ -1,6 +1,6 @@
 {
     "name": "vscdb-dark",
-    "displayName": "VSCDB Dark",
+    "displayName": "Darkx",
     "description": "Personal dark theme",
     "version": "0.0.1",
     "publisher": "dubeg",
@@ -13,7 +13,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "VSCDB Dark",
+                "label": "Darkx (dubeg)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-theme.json"
             }
